@@ -1,1 +1,1 @@
-ECHO is on.
+some_content  
